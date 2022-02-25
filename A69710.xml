@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties message to the House of Commons concerning an order made by them for the borrowing of one hundered [sic] thousand pounds of the adventurers money for Ireland together with the answer of the House of Commons in Parliament thereunto.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69710</idno>
+            <idno type="STC">Wing C2477</idno>
+            <idno type="STC">Wing C2478</idno>
+            <idno type="STC">ESTC R212464</idno>
+            <idno type="EEBO-CITATION">12264411</idno>
+            <idno type="OCLC">ocm 12264411</idno>
+            <idno type="VID">57951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E115, no 16 or 732:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties message to the House of Commons concerning an order made by them for the borrowing of one hundered [sic] thousand pounds of the adventurers money for Ireland together with the answer of the House of Commons in Parliament thereunto.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton and John Field for E. Husband and J. Franck ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>September 5, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing C2477 and C2478 differ only in date on t.p. C2477 (732:33) has date "September 6", C2478 (247:E115, no. 16) has date: "September 5".</note>
+                  <note>Reproduction of original in Thomason Collection, British Library, and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57951:1"/>
+            <p>His Majeſties MESSAGE TO The Houſe of <hi>COMMONS:</hi> CONCERNING An Order made by them for the borrowing of One hundered thouſand pounds of the Adventurers Money FOR IRELAND.</p>
+            <p>Together with the <hi>ANSWER</hi> OF The Houſe of Commons in Parliament thereunto.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That this
+<hi>Meſſage</hi> and <hi>Anſwer</hi> be forthwith Printed and publiſhed:</p>
+                        <closer>
+                           <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by LUKE NORTON and JOHN FIELD, for
+<hi>E. Husband</hi> and <hi>J. Franck,</hi> and are to be ſold at their ſhops in the Middle-Temple, and next door to the Kings-head in Fleetſtreet.
+<hi>September</hi> 6. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="message">
+            <pb facs="tcp:57951:2"/>
+            <pb n="3" facs="tcp:57951:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENS</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+               </figure> HIS MAJESTES MESSAGE To the Houſe of Commons.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſtie taking notice of an Order lately made by the Houſe of Com<g ref="char:EOLhyphen"/>mons, wherby that houſe hath unduly aſſumed to themſelves Authority to order, direct, and di<g ref="char:EOLhyphen"/>ſpoſe of One hundred thouſand pounds, part of thoſe Moneys which the Adventurers for the re<g ref="char:EOLhyphen"/>dreſsing of the Rebells of Ireland have paid to that end onely to that purpoſe, To other uſes and intents, contrary to the expreſſe words of
+<pb n="4" facs="tcp:57951:3"/>the Act of Parliament concerning the ſame; Wherein it is enacted, That no part of the Money which ſhould be paid in according to that Act, ſhall be imployed to any other purpoſe, then the reducing of thoſe Rebells, untill they ſhall be decla<g ref="char:EOLhyphen"/>red to be ſubdued, out of His piety and Princely care for the confirm<g ref="char:EOLhyphen"/>ing and re-eſtabliſhment of Gods true Religion in that His Kingdom of Ireland; For, the relief of His diſtreſſed Subjects there, for the ſuppreſsing of that horrid and bloo<g ref="char:EOLhyphen"/>dy Rebellion, for the ſupply and payment of His Armies there, now in great want and neceſsity; Doth ſtrictly require the Houſe of Com<g ref="char:EOLhyphen"/>mons, as they will anſwer the con<g ref="char:EOLhyphen"/>trary to Almighty God, His Ma<g ref="char:EOLhyphen"/>jeſtie, <pb n="5" facs="tcp:57951:3"/>and thoſe that have truſted them, That they immediately re<g ref="char:EOLhyphen"/>tract that miſchievous, Illegall and unjuſt Order, wherein His Maje<g ref="char:EOLhyphen"/>ſtie expecteth their ſpeedy Anſwer and Obedience; And the rather that he may therby be ſecured, that ſuch part of the Four hundred thouſand pounds as is or ſhall be collected from His good Subjects of Eng<g ref="char:EOLhyphen"/>land, by vertue of the late Act of Parliament, whereby the ſame is granted, may not likewiſe (under falſe pretences) be diverted from its proper uſe, for which it was intend<g ref="char:EOLhyphen"/>ed, and miſ-imployed to the diſtur<g ref="char:EOLhyphen"/>bance of the Peace of this Kingdom in a War againſt His Sacred Ma<g ref="char:EOLhyphen"/>jeſtie.</p>
+         </div>
+         <div type="answer">
+            <pb n="6" facs="tcp:57951:4"/>
+            <head>THE ANSWER OF The Houſe of Commons <hi>TO</hi> HIS MAJESTIES MESSAGE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Houſe of Commons having recei<g ref="char:EOLhyphen"/>ved a Meſſage from His Majeſtie of the 13th of Auguſt laſt, whereby they are required to retract an Order made by them for the borrowing of One hundred thouſand pounds of the Ad<g ref="char:EOLhyphen"/>venturers Money for IRELAND, ſuppoſing that Order very prejudiciall to the affairs of Ireland, and contrary to an Act of Parliament made this preſent Seſſion; Do in the firſt place Declare, That theſe dire<g ref="char:EOLhyphen"/>ctions given by His Majeſtie for the retracting of this Order, is an high breach of Priviledge of Parliament; And that they cannot without a deep ſence of ſorrow, call to minde how Popiſh and Prelaticall Counſells did ſo far prevail with His Majeſtie, that two Armies were brought within the bowels of this Kingdom, and two Proteſtant Nations ready to welter in each others blood; That when both thoſe Armies had been a long
+<pb n="7" facs="tcp:57951:4" rendition="simple:additions"/>time defrayed at the charge of the poor Commons of England, and at length by Gods bleſſing upon the en<g ref="char:EOLhyphen"/>deavours of the Parliament quietly disbanded, the ſame wicked Counſells (prevented of that deſign) did ſoon after raiſe this bloody and barbarous Rebellion in Ire<g ref="char:EOLhyphen"/>land: The ſuppreſſing whereof (for the better-colour) was recommended to the care of the Parliament, who, out of a fellow-feeling of the unſpeakable miſeries of their Proteſtant Brethren there (not ſuſpecting this horrid Plot, now too apparant) did cheerfully under<g ref="char:EOLhyphen"/>take that great work, and do really intend and indea<g ref="char:EOLhyphen"/>vour to ſettle the Proteſtant Religion, and a permanent Peace in that Realm, to the glory of God, and the great honour and profit of His Majeſtie, and ſecurity of His three Kingdoms: But how they have been diſcouraged, retarded, and diverted in and from this pious and glori<g ref="char:EOLhyphen"/>ous work, by thoſe Traiterous Counſells about His Majeſtie, will appear by many particulars, ſome whereof they ſhall upon this juſt occaſion call to re<g ref="char:EOLhyphen"/>membrance.</p>
+            <p>That when the Lords and Commons had upon the firſt breaking out of the Rebellion, immediately pro<g ref="char:EOLhyphen"/>vided &amp; ſent over Twenty thouſand pounds, &amp; ingaged themſelves and the whole Kingdom for the reducing of the Rebels: Yet His Majeſtie after His return from Scotland to London, was not either pleaſed by Word or Meſſage to take notice of it, untill after ſome in the Houſe of Commons had truly obſerved how forward thoſe miſchievous Counſellours were to incite His Majeſtie againſt His Proteſtant Subjects of Scotland, and how ſlow to recent the proceeding of His Papiſt Traitors in Ireland.</p>
+            <pb n="8" facs="tcp:57951:5" rendition="simple:additions"/>
+            <p>That although the Rebels had moſt impudently ſti<g ref="char:EOLhyphen"/>led themſelves, <hi>The Queens Army;</hi> and profeſt that the cauſe of their riſing was, to maintain the Kings Prero<g ref="char:EOLhyphen"/>gative, and the Queens Religion, againſt the Puritan Parliament of England. And that thereupon both Houſes of Parliament <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d humbly and earneſtly ad<g ref="char:EOLhyphen"/>vice His Majeſtie to wipe away this dangerous ſcan<g ref="char:EOLhyphen"/>dall, by proclaiming them Rebels and Traitors to His Majeſtie, and the Crown of England, which then would have mated and weakned the Conſpirators in the be<g ref="char:EOLhyphen"/>ginning; and have incouraged both the Parliament here, and good people there, the more vigorouſly to have oppoſed their proceedings: Yet ſuch was the power of thoſe Counſells, that no Proclamation was ſet forth to that purpoſe, till almoſt three Moneths af<g ref="char:EOLhyphen"/>ter the breaking out of this Rebellion, and then com<g ref="char:EOLhyphen"/>mand given, that but 40 ſhould be printed, nor they publiſhed till further directions ſhould be given by His Majeſtie.</p>
+            <p>That after both Houſes of Parliament had found out a probable way to reduce the Kingdom of Ireland, by the Adventure of private men, without any charge to the Subject in generall, and which they are very con<g ref="char:EOLhyphen"/>fident would have brought in a Million of Money (had His Majeſtie continued in or neer London) thoſe mali<g ref="char:EOLhyphen"/>cious Whiſperers, that durſt not hinder the paſſing of the Bill, which was ſo ſpecious in it ſelf, and ſo gene<g ref="char:EOLhyphen"/>rally approved: Yet have by practiſe, by drawing His Majeſtie from His Parliament, by keeping Him at this diſtance, and adviſing Him to make war upon His peo<g ref="char:EOLhyphen"/>ple, ſo intimidated and diſcouraged the Adventurers
+<pb n="9" facs="tcp:57951:5" rendition="simple:additions"/>and others that would have adventured, that they have rendred that good Bill in a maner ineffectuall.</p>
+            <p>That the Parliament and Adventurers had long ſince deſigned five thouſand Foot, and five hundred Horſe for the relief of
+<hi>Munſter,</hi> to be ſent as a Bri<g ref="char:EOLhyphen"/>gade, under the command of the Lord
+<hi>Wharton;</hi> had made choice and liſted all the Commanders, and prepared Money, Arms, and other Proviſion for that Expedition, and all to be at the charge of the Ad<g ref="char:EOLhyphen"/>venturers: And when nothing was wanting but a Commiſſion to the Lord <hi>Wharton,</hi> to enable him for that ſervice, ſuch was the power of thoſe Counſels, that no Commiſſion could be obtained from His Ma<g ref="char:EOLhyphen"/>jeſty; by reaſon whereof <hi>Lymrick</hi> was wholly loſt, &amp; the Province of <hi>Munſter</hi> is now in very great diſtreſſe.</p>
+            <p>That when divers pious and well affected perſons had prepared twelve Ships, and ſix Pinnaces, with a thouſand or more Land-forces, at their own charge, by way of Adventure for the ſervice of <hi>Ireland,</hi> and deſired nothing but a Commiſſion from His Majeſty to enable them thereunto, that Commiſſion, after twice ſending to <hi>York</hi> for the ſame, and the Ships lying ready to ſet Sail for three weeks together, at the charge of neer three hundred pound a day, was likewiſe denyed; and thoſe Adventurers (rather then to loſe their Expedition) were conſtrained to go by vertue of an Ordinance of both houſes of Parliament.</p>
+            <p>That although the Lords Juſtices of <hi>Ireland</hi> have three months ſince earneſtly deſired to have two Pieces of Battery ſent over, as very neceſſary for <pb n="10" facs="tcp:57951:6" rendition="simple:additions"/>that ſervice, yet ſuch commands are given to the Of<g ref="char:EOLhyphen"/>cers of the Tower, that none of His Majeſties Ord<g ref="char:EOLhyphen"/>nance muſt be ſent to ſave His Majeſties Kingdom.</p>
+            <p>That although whilſt the Earl of <hi>Leiceſter</hi> ſtayed here in the Service of the Parliament, and in pro<g ref="char:EOLhyphen"/>viding for his long-expected Voyage into <hi>Ireland,</hi> a Meſſage was ſent to the Parliament from His Maje<g ref="char:EOLhyphen"/>ſty to haſten him away, and Letters were written to the ſaid Earl from His Majeſty, that he ſhould make no ſtay at <hi>York</hi> for his diſpatch, but that his Inſtructi<g ref="char:EOLhyphen"/>ons ſhould be ready for him againſt he came: And although it is notoriouſly known, That the Affairs of
+<hi>Ireland</hi> do exceedingly ſuffer by wanting the per<g ref="char:EOLhyphen"/>ſonall aſſiſtance of a Commander in chief, to give both life and motion to the Army there; yet the ſaid Earl hath been ſtayed with His Majeſty in the North a month and more, and as yet can get no diſpatch.</p>
+            <p>That notwithſtanding the bleeding condition of
+<hi>Ireland,</hi> yet divers Commanders and Officers in pay, and in actuall employment there againſt the Rebells, have been called away from that important Service, by the expreſſe Command of His Majeſty, as <hi>Charles Floyd</hi> Engineer and Quarter-Maſter Generall of the Army in
+<hi>Ireland,</hi> and divers others.</p>
+            <p>That Captain <hi>Green</hi> Comptroller of the Artillery, a man in pay, and principally employed and truſted here by the Lord Lievtenant of
+<hi>Ireland,</hi> for the providing and ordering the Train of Artillery which was to be ſent to <hi>Dublin,</hi> and who had recei<g ref="char:EOLhyphen"/>ved great Sums of money for that purpoſe, was <pb n="11" facs="tcp:57951:6" rendition="simple:additions"/>commanded from that employment and truſt, to ſerve His Majeſty in this moſt unnaturall Warre againſt His loyall and beſt-affected people.</p>
+            <p>That the Parliament having made great proviſion of clothes for the poor Souldiers in <hi>Ireland</hi> for their preſent ſuccour, and ſending ſix hundred ſuits, part thereof towards <hi>Cheſter</hi> the laſt week, the man that undertook the carriage of them, one <hi>William Whitaker</hi> by name, was aſſaulted by His Majeſties Cava<g ref="char:EOLhyphen"/>liers, then lying about <hi>Coventry,</hi> who took away theſe ſix hundred ſuits of clothes, and the Waggon and horſes of the poor man, although they were told that the ſix hundred ſuits of clothes were for the Souldiers in
+<hi>Ireland;</hi> and notwithſtanding the poor Catryer was five times with the Earl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of
+<hi>Northampton,</hi> to beg a Releaſe of his Waggon.</p>
+            <p>That three hundred ſuits of clothes, with a Chi<g ref="char:EOLhyphen"/>rurgions Cheſt of Medicaments, being likewiſe ſent for <hi>Ireland</hi> by one
+<hi>Richard Oweſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ds,</hi> who was employed by the Parliament to carry them to
+<hi>Cheſter,</hi> a troop of His Majeſties Cavaliers, under command of one Captain <hi>Middleton,</hi>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with them upon the Road, and took away the clothes, and Chirurgions Cheſt, together with the poor Car<g ref="char:EOLhyphen"/>ryers horſes and Wagon, for His Majeſties pretend<g ref="char:EOLhyphen"/>ed ſervice here.</p>
+            <p>That a great number of draught horſes prepared by the Parliament for the Artillery and Baggage of the <hi>Iriſh</hi> Army, were ſent to <hi>Cheſter</hi> for that pur<g ref="char:EOLhyphen"/>poſe; and being there, attending a Paſſage, are <pb n="12" facs="tcp:57951:7" rendition="simple:additions"/>now required by His Majeſty, for His ſaid preſent ſervice in
+<hi>England.</hi>
+            </p>
+            <p>That His Majeſties Forces are ſo Quartered in and about the common Roads to <hi>Ireland,</hi> that neither Money, Clothes, Victualls, or other Proviſion, can paſſe thither by Land with any ſafety.</p>
+            <p>That Captain <hi>Ketleby</hi> the Admirall, and Sir <hi>Hen<g ref="char:EOLhyphen"/>ry Stradling</hi> the Vice-Admirall of the Ships which were directly to lie upon the Coaſt of <hi>Ireland</hi> to an<g ref="char:EOLhyphen"/>noy the Rebells, and to prevent the bringing to them Ammunition and relief from Forraign Parts, are both called away from that imployment by His Majeſties command, and by reaſon of their depar<g ref="char:EOLhyphen"/>ture from the coaſt of <hi>Munſter,</hi> to which they were deſigned, the Rebells there have received Powder, Ammunition, and other relief from forreign parts; by which, and many other particulars too long to re<g ref="char:EOLhyphen"/>late, it may ſeem, as if thoſe Barbarous <hi>Iriſh</hi>-Rebells are kept on foot and countenanced there, of deſigne to aſſiſt the Northerne Cavaliers, and according to the Earle of <hi>Straffords</hi> unheard of advice, to have an Army in <hi>Ireland</hi> with which His Majeſty may reduce this Kingdome, eſpecially conſidering thoſe confi<g ref="char:EOLhyphen"/>dent Rebells have preſumed, very lately, to ſend a Petition to His Majeſty, intituling themſelves His Majeſties Catholike Subjects of <hi>Ireland,</hi> and com<g ref="char:EOLhyphen"/>plaining of the <hi>Puritane. Parliament</hi> of <hi>England,</hi> and deſiring, that ſince His Majeſty comes not thither according to their expectation, that they may come into <hi>England</hi> to His Majeſty; Which Petition wee <pb n="13" facs="tcp:57951:7"/>may juſtly feare, is but a Prologue to that Tragedie they have deſigned to act here, in caſe their coming over be not prevented by the care and vigilancy of the Parliament and good people of <hi>England.</hi> But leſt the Houſe of Commons might ſeem to excuſe the making of this Order by a way of Recrimination, They, for ſatisfaction to the world, do proteſt before Almighty God (the ſearcher of all hearts) That they have as great compaſſion and ſorrow for the preſent ſufferings of their diſtreſſed brethren in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> as if themſelves were in their caſe (into which they are confident thoſe horrid Traytors, thoſe Monſters of men about His Majeſty do labour to bring this Kingdom) That they have, and ſhall ever really endeavour by all means poſſible (with a due regard to the preſent eſtate of this Kingdo<g ref="char:cmbAbbrStroke">̄</g>) to ſupply &amp; ſupport them in this their great affliction, notwith<g ref="char:EOLhyphen"/>ſtanding the malice and obſtructions of all oppoſers.</p>
+            <p>That the Houſe of Commons lively apprehend<g ref="char:EOLhyphen"/>ing the imminent danger of this Kingdom, and find<g ref="char:EOLhyphen"/>ing that whilſt they were active here to ſubdue the Rebells of <hi>Ireland,</hi> there were Papiſts, Traytors and Delinquents more active in the North, to con<g ref="char:EOLhyphen"/>quer and deſtroy the Parliament and good people of <hi>England,</hi> Thought it neceſſary to provide for the ſafety of both, by preparing a competent Army for the defence of King and Kingdom. And although multitudes of well-affected perſons had cheerfully brought in great ſtore of Plate for that purpoſe, yet in regard the Plate could not be coyned with ſuch <pb n="14" facs="tcp:57951:8"/>expedition as the Importance of the ſervice did re<g ref="char:EOLhyphen"/>quire, and well knowing that One hundred thou<g ref="char:EOLhyphen"/>ſand pounds might for a ſhort time be borrowed out of the Adventurers Money for <hi>Ireland,</hi> without any prejudice to the Affairs of that Kingdom, whoſe ſubſiſtence depends upon the well-fare of this, and reſolving to make a reall and ſpeedy re-payment of what Money ſhould be ſo borrowed, did make this Order; which, that it may appear to all the world to be neither miſchievous, illegall nor unjuſt (as His Majeſty by the inſtigation of thoſe malignant whiſ<g ref="char:EOLhyphen"/>perers is pleaſed to tearm it) the Houſe of Commons thought fit to recite it in <hi>haec verba;</hi> and in ſtead of re<g ref="char:EOLhyphen"/>tracting the Order, to re-p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the Money with all poſſible ſpeed.</p>
+            <div type="order">
+               <head>The <hi>30</hi> of July, <hi>1642</hi>
+               </head>
+               <p>IT is this day Ordered by the Commons Houſe of Parliament, That the Treaſurers appointed to receive the Monies come in upon the Subſcriptions for <hi>Ireland,</hi> do forthwith furniſh by way of Loan, unto the Committee of the Lords and Commons, for the defence of the
+<pb n="15" facs="tcp:57951:8"/>Kingdom, the ſum of one hundred thouſand pounds, for the ſupply of the publike neceſſity, for the de<g ref="char:EOLhyphen"/>fence of the King, Parliament, and Kingdom, upon the publike Faith, to be re-paid duely and carefully within ſo ſhort a time, that it ſhall not be diverted from the purpoſe for which it was intended, or any way fruſtrate the Acts already made in the behalf of that Ad<g ref="char:EOLhyphen"/>venture.</p>
+               <p>BY which Order, and that which hath been here truely ſet down, it will eaſily appear to all the indifferent people of His Majeſties three King<g ref="char:EOLhyphen"/>doms, whether the King and His Cavaliers, or the King and His Parliament do moſt effect and endea<g ref="char:EOLhyphen"/>vour the ſetling of true Religion, and a firm and conſtant peace within that bleeding and diſtreſſed Kingdom.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
